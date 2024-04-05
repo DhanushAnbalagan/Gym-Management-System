@@ -1,10 +1,6 @@
 # Gym-Management-System
 The C++ Gym Management System provides a user-friendly menu interface to create, view, modify, cancel, and search gym memberships. With input validation and dynamic storage using vectors, it efficiently handles membership operations for gym administrators.
 
-# Gym Management System
-
-This C++ program is designed to manage gym memberships through a user-friendly menu interface. It allows gym administrators to perform various operations such as creating, viewing, modifying, canceling, and searching for memberships.
-
 ## Features
 
 - Create new memberships by entering the member's name and timing preference.
